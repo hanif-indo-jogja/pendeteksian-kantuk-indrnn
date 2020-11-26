@@ -1,0 +1,1 @@
+python3 -u train.py --epoch_count 80 --batch_size 64 --seq_len 30 --constrain_U --hidden_size 512 --dropout 0.5 --num_layers 2
